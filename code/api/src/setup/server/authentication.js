@@ -14,7 +14,6 @@ export default async function (request, response, next) {
       const token = header.split(' ')
       //const userToken = jwt.verify(token[1], SECURITY_SECRET)
       //let user = await User.findOne({ _id: userToken.id })
-      User.
       //if(user) {
         request.auth = {
           isAuthenticated: true,
