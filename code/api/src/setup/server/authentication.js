@@ -22,7 +22,8 @@ export default async function (request, response, next) {
             "organizationId":"618c9ad1184dba003fb514a9",
             "name":"Rohit",
             "email":"rohitsaroha857@gmail.com",
-            "role":"user",
+            "role":"admin",
+            "admin": true,
             "demo":false
          }
       //  }
