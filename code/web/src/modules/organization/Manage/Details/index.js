@@ -139,7 +139,7 @@ class Details extends Component {
                           value={nullToEmptyString(name)}
                           onChange={this.onType}
                           label={'Organization name'}
-                          placeholder={'Enter name (eg: HireSmart)'}
+                          placeholder={'Enter name (eg: HSBC)'}
                           required={true}
                           margin={'normal'}
                           autoComplete={'off'}
@@ -155,7 +155,7 @@ class Details extends Component {
                           value={nullToEmptyString(description)}
                           onChange={this.onType}
                           label={'Organization description'}
-                          placeholder={'Enter description (eg: HireSmart is a platform to streamline hiring process, scheduling interviews and tracking candidates.)'}
+                          placeholder={'Enter description '}
                           margin={'normal'}
                           autoComplete={'off'}
                           rowsMax={3}

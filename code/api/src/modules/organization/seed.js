@@ -6,8 +6,8 @@ export default async function () {
   console.log('SEED - Organization..')
 
   await Organization.create({
-    name: 'HireSmart Inc.',
+    name: 'DigiHire  Inc.',
     description: 'Streamline your hiring process, scheduling interviews and tracking candidates.',
-    domain: 'hiresmart.app'
+    domain: 'digihire.app'
   })
 }

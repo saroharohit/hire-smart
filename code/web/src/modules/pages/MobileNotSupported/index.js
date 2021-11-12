@@ -15,7 +15,7 @@ const MobileNotSupported = (props) => {
     <div className={classes.root}>
       {/* Meta tags */}
       <Helmet>
-        <title>Mobile Not Supported - HireSmart</title>
+        <title>Mobile Not Supported - DIGIHIRE</title>
       </Helmet>
 
       <Typography

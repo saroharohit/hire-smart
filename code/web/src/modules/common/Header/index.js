@@ -112,25 +112,9 @@ class Header extends PureComponent {
                   </Button>
                 </Tooltip>
               </Link>
-            }
+            }          
 
-            {/* Call */}
-            <Link to={routes.contact.path}>
-              <Tooltip title={'Get in touch'} placement={'bottom'}>
-                <IconButton color={'inherit'}>
-                  <IconCall />
-                </IconButton>
-              </Tooltip>
-            </Link>
-
-            {/* Features */}
-            <Link to={routes.features.path}>
-              <Tooltip title={'Features'} placement={'bottom'}>
-                <IconButton color={'inherit'}>
-                  <IconPlaylistAddCheck />
-                </IconButton>
-              </Tooltip>
-            </Link>
+            
 
             {/* Account */}
             <Link to={this.account()}>
