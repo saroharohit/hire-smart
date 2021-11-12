@@ -1,6 +1,6 @@
 {
   "site": {
-    "version": 0.3,
+    "version": 0.1,
     "name": "DIGIHIRE",
     "domain": "DIGIHIRE.app",
     "url": "https://DIGIHIRE.app",
@@ -10,7 +10,7 @@
     "author": "DIGIHIRE",
     "copyright": "DIGIHIRE",
     "applicationName": "DIGIHIRE",
-    "copyright_year": 2018,
+    "copyright_year": 2021,
     "image": "logo.png"
   },
 
