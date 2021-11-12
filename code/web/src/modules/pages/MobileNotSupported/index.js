@@ -20,7 +20,7 @@ const MobileNotSupported = (props) => {
 
       <Typography
         variant={'h3'}
-        title={'HireSmart'}
+        title={'DigiHire'}
         className={classes.title}
       >
         Hire<span className={classes.titleHighlight}>Smart</span>

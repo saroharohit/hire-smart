@@ -27,7 +27,7 @@ class Manage extends PureComponent {
         <div>
           {/* Meta tags */}
           <Helmet>
-            <title>Manage Projects - HireSmart</title>
+            <title>Manage Projects - DigiHire</title>
           </Helmet>
 
           {/* Toolbar - Heading */}

@@ -1,10 +1,10 @@
 {
   "site": {
     "version": 0.3,
-    "name": "HIRESMART",
+    "name": "DIGIHIRE",
     "domain": "DIGIHIRE.app",
     "url": "https://DIGIHIRE.app",
-    "title": "HIRESMART - Streamline your hiring process, scheduling interviews and tracking candidates.",
+    "title": "DIGIHIRE - Streamline your hiring process, scheduling interviews and tracking candidates.",
     "description": "An online application to streamline your hiring process, scheduling interviews and tracking candidates.",
     "keywords": "hiring, recruiter, recruitment, staffing, onboarding, tracking, interviews, feedback, candidate, streamline",
     "author": "DIGIHIRE",

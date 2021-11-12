@@ -326,7 +326,7 @@ class Verify extends PureComponent {
                   value={nullToEmptyString(organizationName)}
                   onChange={this.onType}
                   label={'Organization name'}
-                  placeholder={'Enter name (eg: Hiresmart)'}
+                  placeholder={'Enter name (eg. HSBC)'}
                   required={true}
                   margin={'normal'}
                   autoComplete={'off'}

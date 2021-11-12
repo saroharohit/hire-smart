@@ -22,7 +22,7 @@ const Contact = (props) => {
       <div>
         {/* Meta tags */}
         <Helmet>
-          <title>Contact - HireSmart</title>
+          <title>Contact - DigiHire</title>
         </Helmet>
 
         {/* Toolbar - Heading */}

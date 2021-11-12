@@ -1,16 +1,16 @@
 {
   "site": {
     "version": 0.1,
-    "name": "HIRESMART",
+    "name": "DIGIHIRE",
     "domain": "hiresmart.app",
     "emails": {
       "help": {
-        "name": "HIRESMART",
-        "email": "help@hiresmart.app"
+        "name": "DIGIHIRE",
+        "email": "help@digihire.app"
       },
       "hello": {
-        "name": "HIRESMART",
-        "email": "hello@hiresmart.app"
+        "name": "DIGIHIRE",
+        "email": "hello@digihire.app"
       }
     }
   },
