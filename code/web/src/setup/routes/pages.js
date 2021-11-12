@@ -6,5 +6,9 @@ import Privacy from '../../modules/pages/Privacy'
 
 // Pages routes
 export default {
-    
+  home: {
+    path: '/',
+    component: Home,
+    exact: true
+  }
 }
